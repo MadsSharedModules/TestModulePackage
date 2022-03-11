@@ -1,9 +1,9 @@
 {
   "publishConfig": {
-   "@MadsSharedModules:registry": "https://npm.pkg.github.com"
- },
+    "@MadsSharedModules:registry": "https://npm.pkg.github.com"
+  },
   "name": "@madssharedmodules/testmodulepackage",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
