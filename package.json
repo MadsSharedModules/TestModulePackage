@@ -3,7 +3,7 @@
     "@MadsSharedModules:registry": "https://npm.pkg.github.com"
   },
   "name": "@madssharedmodules/testmodulepackage",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
